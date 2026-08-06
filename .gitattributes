@@ -6,7 +6,7 @@
 *.jpg binary
 *.jpeg binary
 *.gif binary
-*.svg binary
+*.svg linguist-detectable=true -linguist-documentation -linguist-vendored -linguist-generated
 *.mp4 binary
 *.zip binary
 *.ico binary
